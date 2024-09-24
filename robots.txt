@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bgiiz.github.io/uzM/sitemap.uzM.gz
